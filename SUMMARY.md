@@ -4,5 +4,5 @@
 * [Malaria](causes/malaria.md)
    * [Health Effects](causes/malaria/health_effects.md)
    * [Economic Effects](causes/malaria/economic_effects.md)
-* Schistosomiasis
+* [Schistosomiasis](causes/schistosomiasis.md)
 
