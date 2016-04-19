@@ -4,8 +4,8 @@ Info about economic effects of malaria.
 
 Other information as needed.
 
-This line has a footnote[^1]
+This line has a footnote[^econ]
 
 
-[^1]: Here's the footnote content
+[^econ]: Here's the footnote content
 
